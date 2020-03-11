@@ -11,6 +11,7 @@
     <sprite>sprites\spr_ui_out</sprite>
     <sprite>sprites\spr_ui_bubble</sprite>
     <sprite>sprites\spr_ui_linebubble</sprite>
+    <sprite>sprites\spr_dude</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background1</background>
@@ -29,6 +30,8 @@
     <object>objects\obj_decider</object>
     <object>objects\obj_ui_bubble</object>
     <object>objects\obj_ui_linebubble</object>
+    <object>objects\obj_dude</object>
+    <object>objects\obj_throw</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>

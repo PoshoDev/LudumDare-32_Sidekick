@@ -28,6 +28,7 @@
             <string>image_angle =   irandom_range(0,359)
 grab =          0
 image_speed =   0
+holded =        0
 
 //Becomes something that isn'nt THE thing
 scr_itemloop()
@@ -95,6 +96,7 @@ else
           <argument>
             <kind>1</kind>
             <string>grab = 0
+holded = 1
 global.already_grab = 0
 depth = global.deep
 </string>
